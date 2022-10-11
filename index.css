@@ -103,12 +103,12 @@ a {
 }
 .header-date {
     background-color: lightgray;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom:15px;
     border: 1px solid black;
-    width: 60%;
+    width: 58%;
     font-size:large
 
 }
